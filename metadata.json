@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Jesus Vazquez Castillo - Taller de Bases de Datos",
+  "description": "Evaluador automático y tutor riguroso de código SQL DCL (MySQL y SQL Server) para gestión de usuarios, roles y privilegios con pistas pedagógicas y análisis de seguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
